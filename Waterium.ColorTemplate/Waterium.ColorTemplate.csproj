@@ -8,4 +8,8 @@
         <RootNamespace>Waterium.ColorTemplate</RootNamespace>
     </PropertyGroup>
 
+    <ItemGroup>
+      <None Remove="Package.ps1" />
+    </ItemGroup>
+
 </Project>
